@@ -1,0 +1,22 @@
+.section {
+  padding: 100px;
+}
+
+.button-add {
+  display: 'flex';
+  justify-content: 'end';
+  margin-bottom: 50px;
+}
+
+.cards {
+  margin-bottom: 30px;
+}
+
+.main {
+  display: 'flex';
+  flex-direction: 'column';
+  justify-content: 'space-between';
+  align-items: 'center';
+  padding: 90px;
+  /* min-height: 100vh; */
+}
